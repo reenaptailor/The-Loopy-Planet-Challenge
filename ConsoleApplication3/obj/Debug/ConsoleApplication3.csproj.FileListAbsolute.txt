@@ -1,0 +1,12 @@
+c:\users\jg\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\jg\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\jg\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\jg\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\jg\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\jg\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\JG\Documents\Visual Studio 2015\Projects\Mini Project 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\JG\Documents\Visual Studio 2015\Projects\Mini Project 1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\JG\Documents\Visual Studio 2015\Projects\Mini Project 1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\JG\Documents\Visual Studio 2015\Projects\Mini Project 1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\JG\Documents\Visual Studio 2015\Projects\Mini Project 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\JG\Documents\Visual Studio 2015\Projects\Mini Project 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
